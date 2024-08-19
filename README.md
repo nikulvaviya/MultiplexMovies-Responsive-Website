@@ -12,7 +12,7 @@ A responsive Movie Home Page created using HTML, CSS, and JavaScript. This proje
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](./img/Overview/Home-Page.png)
+![Home Page Image](./img/Overview/Home-Page.png)
 
 
 ## 🛠️ Technologies Used
